@@ -23,7 +23,7 @@ tags: ["github"]
     - https://www.firsttimersonly.com/
     - http://yourfirstpr.github.io/
     - https://www.codetriage.com/
-- [ ] You need to be a github developer program, member. You can join for free and you will get a badge on your profile.
+- [ ] You need to be a [github developer program](https://developer.github.com/program/) member. You can join for free and you will get a badge on your profile.
 - [ ] Avoid using  "new developer", "junior developer", "recent graduate", or the like in your summary statement or bio.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0NTI1Mjg1MDFdfQ==
