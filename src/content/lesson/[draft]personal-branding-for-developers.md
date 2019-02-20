@@ -10,7 +10,9 @@ tags: ["github"]
 ---
 ## Making Your Github Profile Shine
 
-- [ ] Write a short bio with your main focus and skills as a developer.
+- [ ] Write a short bio with your main focus and skills as a developer.  
+       - Avoid using  "new developer", "junior developer", "recent graduate", or the like in your summary statement or bio.  
+       - Avoid saying that you are looking for a job explicitly.
 - [ ] Include links to your personal website, Linkedin profile, email and social media handle, if relevant.
 - [ ] Add a picture or avatar.
 - [ ] Start committing and pushing since day one at the academy.
@@ -24,7 +26,3 @@ tags: ["github"]
     - http://yourfirstpr.github.io/
     - https://www.codetriage.com/
 - [ ] You need to be a [github developer program](https://developer.github.com/program/) member. You can join for free and you will get a badge on your profile.
-- [ ] Avoid using  "new developer", "junior developer", "recent graduate", or the like in your summary statement or bio.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI1Mjg1MDFdfQ==
--->
