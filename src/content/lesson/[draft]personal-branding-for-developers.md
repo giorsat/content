@@ -19,7 +19,7 @@ tags: ["github"]
     2. Live demo (github pages), screenshots, and gifs.
     3. Very organized, clean code and comments.
 - [ ] Your most important project, the one you are proud the most, must be pinned on the first slot.
-- [ ] Contribute to at least 5 external projects.
+- [ ] Contribute to at least 5 external projects. Find open source projects you like and make contributions. In the following links you'll find projects and indications on how to contribute:
     - https://www.firsttimersonly.com/
     - http://yourfirstpr.github.io/
     - https://www.codetriage.com/
